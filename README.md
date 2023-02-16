@@ -1,4 +1,10 @@
-### Hi there 👋
+<div id="header" align="center"> 
+<img src="https://media.giphy.com/media/26u6dIwIphLj8h10A/giphy.gif" width="100"/>
+</div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/tJ4hc3gEp7Kjn7vLgy/giphy.gif" width="300"/>
+</div>
+
 
 <!--
 **GoshaGrishenko/GoshaGrishenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
