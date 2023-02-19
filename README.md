@@ -4,6 +4,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/tJ4hc3gEp7Kjn7vLgy/giphy.gif" width="300"/>
 </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+work+with+Nodes+and+Testnets+in+Crypto)](https://git.io/typing-svg)
 <h3 align="center">I work with Nodes and Testnets in Crypto.</h3>
 
 <!--
