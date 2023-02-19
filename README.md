@@ -1,4 +1,4 @@
-<div id="header" align="center"> 
+<h1 align="center">Hi, I'm Gosha/a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1><div id="header" align="center"> 
 <img src="https://media.giphy.com/media/26u6dIwIphLj8h10A/giphy.gif" width="100"/>
 </div>
 <div id="header" align="center">
