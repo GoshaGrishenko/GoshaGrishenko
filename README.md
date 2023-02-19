@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/tJ4hc3gEp7Kjn7vLgy/giphy.gif" width="300"/>
 </div>
-
+<h3 align="center">I work with Nodes and Testnets in Crypto.</h3>
 
 <!--
 **GoshaGrishenko/GoshaGrishenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
